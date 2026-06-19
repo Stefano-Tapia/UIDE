@@ -1,2 +1,0 @@
-# UIDE
-Ejercicios de Programación
