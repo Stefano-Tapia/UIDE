@@ -1,0 +1,9 @@
+Nombre del proyecto: Atari Pong en Python 
+Integrantes: Stefano Tapia 
+Objetivo del sistema: Desarrollar una versión funcional y simplificada del clásico juego de Pong, permitiendo a dos jugadores competir localmente. 
+Descripción de funcionalidades:
+•	Control de paletas: Movimiento vertical mediante el teclado (Teclas 'W'/'S' para el Jugador A y Flechas 'Arriba'/'Abajo' para el Jugador B).
+•	Movimiento de la pelota: Desplazamiento automático con rebote en los límites superior e inferior de la pantalla.
+•	Sistema de puntuación: Marcador dinámico que se actualiza automáticamente al anotar un punto.
+•	Detección de colisiones: Lógica de rebote al impactar la pelota contra las paletas de ambos jugadores. 
+Fecha: 27 de junio de 2026
